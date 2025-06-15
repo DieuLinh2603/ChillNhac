@@ -81,6 +81,7 @@ realtime-chat/
 
 ### 1. Clone project
 git clone https://github.com/DieuLinh2603/ChillNhac.git
+
 cd ChillNhac
 
 ---
@@ -88,6 +89,7 @@ cd ChillNhac
 
 ### 2. Cài đặt backend
 cd BackEnd
+
 npm install
 
 ---
@@ -95,6 +97,7 @@ npm install
 
 ### 3. Cài đặt frontend
 cd FrontEnd
+
 npm install
 
 ---
@@ -108,6 +111,9 @@ Chỉnh sửa các thông tin cần thiết tại file BackEnd/.env
 
 ### 5. Chạy ứng dụng
 **Chạy BackEnd**
+
 npm run dev
+
 **Chạy FrontEnd**
+
 npm run dev
