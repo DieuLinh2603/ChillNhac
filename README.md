@@ -9,9 +9,13 @@
 ## 🚀 Tính năng
 
 •	🎼 Nghe nhạc (phát/tạm dừng/chuyển tiếp/quay lại)
+
 •	🔐 Đăng ký – đăng nhập bằng Google thông qua Clerk
+
 •	📃 Xem chi tiết album và danh sách bài hát
+
 •	💬 Nhắn tin thời gian thực giữa người dùng
+
 •	🧑‍💻 Quản lý nội dung bởi Admin (bài hát, album, người dùng)
 
 ---
@@ -20,16 +24,24 @@
 
 ### 📦 Backend
 •	**Node.js**
+
 •	**Express.js**
+
 •	**MongoDB**
+
 •	**Socket.IO**
+
 •	**JavaScript**
 
 ### 💻 Frontend
 •	**React.js**
+
 •	**Tailwind CSS**
+
 •	**Shadcn/UI**
+
 •	**TypeScript**
+
 •	**Zustand**
 
 ---
